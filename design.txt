@@ -1,0 +1,16 @@
+methods
+
+load_examples()
+	loads json from disk or remote URL
+
+command line run
+
+
+EvalRun (object)
+	examples
+	logging config
+	eval config
+	.run(): starts the eval run
+	model config
+	prompt template (optional)
+

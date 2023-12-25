@@ -1,0 +1,76 @@
+{
+"input_text": "question: How many people live in Beijing? context: With over 21 million residents, Beijing is the world's most populous national capital city and is China's second largest city after Shanghai. It is located in Northern China, and is governed as a municipality under the direct administration of the State Council with 16 urban, suburban, and rural districts.[14] Beijing is mostly surrounded by Hebei Province with the exception of neighboring Tianjin to the southeast; together, the three divisions form the Jingjinji megalopolis and the national capital region of China.",
+"output_text": "over 21 million people"
+}
+{
+"input_text": "question: How many parishes are there in Louisiana? context: The U.S. state of Louisiana is divided into 64 parishes (French: paroisses) in the same manner that 48 other states of the United States are divided into counties, and Alaska is divided into boroughs.", 
+"output_text": "64"
+}
+{
+"input_text": "one orange and one green apple",
+"output_text":"[{"brand": "", "item": "orange", "quantity": "1 orange"}, {"brand": "", "item": "apple", "quantity": "1 green apple"}]"
+}
+{
+"input_text": "half a plate of chicken parmesan and a side salad",
+"output_text":"[{"brand": "", "item": "chicken parmesan", "quantity": "half a plate"}, {"brand": "", "item": "salad", "quantity": "1 serving"}]"
+}
+{
+"input_text": "2 slices of chocolate cake",
+"output_text":"[{"brand": "", "item": "chocolate cake", "quantity": "2 slices"}]"
+}
+{
+"input_text": "hamburger with fries",
+"output_text":"[{"brand": "", "item": "hamburger", "quantity": "1 hamburger"}, {"brand": "", "item": "fries", "quantity": "1 serving"}]"
+}
+{
+"input_text": "2 fried eggs and bacon",
+"output_text":"[{"brand": "", "item": "egg", "quantity": "2 eggs"}, {"brand": "", "item": "bacon", "quantity": "2 slices"}]"
+}
+{
+"input_text": "peanut butter and jelly sandwich",
+"output_text":"[{"brand": "", "item": "peanut butter", "quantity": "2 Tbsp"}, {"brand": "", "item": "jelly", "quantity": "2 Tbsp"}, {"brand": "", "item": "bread", "quantity": "2 slices"}]"
+}
+{
+"input_text": "spaghetti with tomato sauce",
+"output_text":"[{"brand": "", "item": "spaghetti", "quantity": "1 serving"}, {"brand": "", "item": "tomato sauce", "quantity": "1 cup"}]"
+}
+
+{
+"input_text": "steak and potatoes",
+"output_text":"[{"brand": "", "item": "steak", "quantity": "1 steak"}, {"brand": "", "item": "potato", "quantity": "2 potatoes"}]"
+}
+
+{
+"input_text": "salmon with rice and broccoli",
+"output_text":"[{"brand": "", "item": "salmon", "quantity": "1 fillet"}, {"brand": "", "item": "rice", "quantity": "1 serving"}, {"brand": "", "item": "broccoli", "quantity": "1 serving"}]"
+}
+
+{
+"input_text": "pizza",
+"output_text":"[{"brand": "", "item": "pizza", "quantity": "1 slice"}]"
+}
+{
+"input_text": "chicken teriyaki with rice",
+"output_text":"[{"brand": "", "item": "chicken teriyaki", "quantity": "1 serving"}, {"brand": "", "item": "rice", "quantity": "1 serving"}]"
+}
+{
+"input_text": "turkey sandwich",
+"output_text":"[{"brand": "", "item": "turkey", "quantity": "2 slices"}, {"brand": "", "item": "bread", "quantity": "2 slices"}]"
+}
+{
+"input_text": "cereal with milk",
+"output_text":"[{"brand": "", "item": "cereal", "quantity": "1 cup"}, {"brand": "", "item": "milk", "quantity": "1 cup"}]"
+}
+{
+"input_text": "grilled cheese sandwich",
+"output_text":"[{"brand": "", "item": "cheese", "quantity": "2 slices"}, {"brand": "", "item": "bread", "quantity": "2 slices"}]"
+}
+{
+"input_text": "tacos",
+"output_text":"[{"brand": "", "item": "taco", "quantity": "2 tacos"}]"
+}
+
+{
+"input_text": "salad with grilled chicken",
+"output_text":"[{"brand": "", "item": "salad", "quantity": "1 serving"}, {"brand": "", "item": "chicken", "quantity": "1 serving"}]"
+}
